@@ -1,4 +1,4 @@
-# WebRTC app 
+# WebRTC app - React
 
 ## Build
 
